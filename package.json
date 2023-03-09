@@ -29,6 +29,9 @@
 	"type": "module",
 	"dependencies": {
 		"@prisma/client": "^4.11.0",
-		"daisyui": "^2.51.3"
+		"@types/bcrypt": "^5.0.0",
+		"bcrypt": "^5.1.0",
+		"daisyui": "^2.51.3",
+		"jose": "^4.13.1"
 	}
 }
